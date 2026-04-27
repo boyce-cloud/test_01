@@ -1,0 +1,1 @@
+# Quick Start Guide Update\n\nThis is an updated quickstart guide for test_01 project.\n\n## Installation\n\n1. Clone the repository\n2. Run the setup script\n\n## Usage\n\n\n\n## Contributing\n\nFeel free to submit issues and pull requests.
